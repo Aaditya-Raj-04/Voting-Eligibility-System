@@ -1,3 +1,6 @@
+# Name - Aaditya Raj
+# ERP - RU-26-00359
+# Sec - 1-F
 def check_eligibility(name, age, citizenship):
     if age >= 18 and citizenship == "y":
         print(f"{name} is eligible to vote.")
